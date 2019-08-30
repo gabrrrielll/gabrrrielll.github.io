@@ -1,4 +1,4 @@
 # VUE-Calendar
 ### Live version
 
-See [Vue Calendar](https://gabrrrielll.github.io/VUE-Calendar/).
+See [Vue Calendar](https://gabrrrielll.github.io/).
